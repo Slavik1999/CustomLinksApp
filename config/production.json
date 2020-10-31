@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"jwtSecret": "viachaslau xol",
+	"mongoUri": "mongodb+srv://farmik222:qqqqwwww12@cluster0.wirt3.mongodb.net/registr",
+	"baseUrl": "http://localhost:5000"
+}
